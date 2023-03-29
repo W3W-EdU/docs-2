@@ -1,6 +1,7 @@
 site_name: PeeringDB Docs
 site_url: https://docs.peeringdb.com/
 repo_url: https://github.com/peeringdb/docs
+google_analytics: ['G-14LRNCMV44', 'mkdocs.org']
 theme:
   name: mkdocs
   custom_dir: peeringdb_theme/
